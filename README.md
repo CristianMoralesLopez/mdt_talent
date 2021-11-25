@@ -12,6 +12,10 @@ En este Workshop aprenderemos todos los pasos y conceptos de networking necesari
 
 * [AWS Console](https://241507129644.signin.aws.amazon.com/console)
 
+### Region de AWS donde se despliegaran los recursos es 
+
+ * North Virginia us-east-1
+
 ### El usuario para la consola de AWS esta conformado de la siguiente manera:
 
 * Usuario: primerNombre.primerapellido
